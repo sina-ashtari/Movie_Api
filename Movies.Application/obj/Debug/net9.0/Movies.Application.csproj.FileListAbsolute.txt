@@ -1,0 +1,12 @@
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\bin\Debug\net9.0\Movies.Application.deps.json
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\bin\Debug\net9.0\Movies.Application.dll
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\bin\Debug\net9.0\Movies.Application.pdb
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.csproj.AssemblyReference.cache
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.AssemblyInfoInputs.cache
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.AssemblyInfo.cs
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.dll
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\refint\Movies.Application.dll
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\Movies.Application.pdb
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Application\obj\Debug\net9.0\ref\Movies.Application.dll

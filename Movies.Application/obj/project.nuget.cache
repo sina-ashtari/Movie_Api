@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fRMMMFBzUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sina\\RiderProjects\\Movies.Api\\Movies.Application\\Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sina\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Sina\\.nuget\\packages\\fluentvalidation\\12.0.0-preview1\\fluentvalidation.12.0.0-preview1.nupkg.sha512",
+    "C:\\Users\\Sina\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0-preview1\\fluentvalidation.dependencyinjectionextensions.12.0.0-preview1.nupkg.sha512",
+    "C:\\Users\\Sina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\Sina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Sina\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

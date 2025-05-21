@@ -1,0 +1,11 @@
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\bin\Debug\net9.0\Movies.Contracts.deps.json
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\bin\Debug\net9.0\Movies.Contracts.dll
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\bin\Debug\net9.0\Movies.Contracts.pdb
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.AssemblyInfoInputs.cache
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.AssemblyInfo.cs
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.dll
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\refint\Movies.Contracts.dll
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.pdb
+C:\Users\Sina\RiderProjects\Movies.Api\Movies.Contracts\obj\Debug\net9.0\ref\Movies.Contracts.dll
